@@ -1,0 +1,33 @@
+body{
+  background-color: lightgrey;
+}
+
+#paragraph1{
+text-align: center;
+color: black;
+font-size: 350%
+}
+
+#paragraph2{
+text-align: left;
+color: hotpink;
+font-size: 300%
+}
+
+#paragraph3{
+text-align: left;
+color: yellow;
+  font-size: 250%
+}
+
+#paragraph4{
+text-align: left;
+color: black;
+font-size: 200%
+}
+
+#paragraph5{
+text-align: left;
+color: skyblue;
+font-size: 150%
+}
